@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">invo_filmes_app</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_movies_list_view">MoviesListViewActivity</string>
+</resources>
